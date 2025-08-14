@@ -31,7 +31,7 @@ At Universidade de São Paulo, I focus on projects involving biological data ana
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:livia.cavalcanti.gama@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liviacavalcanti-bioinfo)
 
 ---
