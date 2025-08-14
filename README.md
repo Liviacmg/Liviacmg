@@ -8,7 +8,7 @@ I'm a bioinformatician passionate about technology and software development. I c
 
 ## 🚀 What I Do
 
-At Universidade de São Paulo, I focus on projects involving biological data analysis and developing custom solutions to meet research and diagnostic needs. Additionally, I'm always exploring new technologies and tools to enhance my work.
+At Universidade de São Paulo, I focus on projects involving biological data analysis. Additionally, I'm always exploring new technologies and tools to enhance my work.
 
 ---
 
